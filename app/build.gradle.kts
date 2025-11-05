@@ -3,7 +3,7 @@ plugins {
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
     id("org.jetbrains.kotlin.kapt") version "2.0.0"
-    id("com.google.dagger.hilt.android") version "2.57.2"
+    alias(libs.plugins.hilt.android)
 
 }
 

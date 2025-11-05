@@ -1,6 +1,6 @@
 
 [versions]
-android-gradle-plugin = "8.13.0"
+android-gradle-plugin = "8.12.0"
 kotlin = "2.0.0"
 core-ktx = "1.13.1"
 junit = "4.13.2"
@@ -9,7 +9,7 @@ espresso-core = "3.5.1"
 lifecycle-runtime-ktx = "2.8.1"
 activity-compose = "1.9.0"
 compose-bom = "2024.05.00"
-hilt = "2.44"
+hilt = "2.51.1"
 retrofit = "3.0.0"
 navigation-compose = "2.9.5"
 hilt-navigation-compose = "1.2.0"

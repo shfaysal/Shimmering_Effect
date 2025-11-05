@@ -1,5 +1,6 @@
 package com.example.myapplication.auth
 
+import com.example.myapplication.R
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.layout.imePadding
 import androidx.compose.material3.*
